@@ -107,7 +107,7 @@ window.CATEGORIAS = [
         dato: "Lo maravilloso de la vida es ser querido"
       },
       {
-        p: "¿Qué crees que fue lo primero que me impresionó todo?",
+        p: "¿Qué crees que fue lo primero que pensé de ti?",
         o: ["Me caíste bien inmediatamente", "Pensé que eras seria", "Pensé que eras divertida", "No sabía qué pensar de ti", "De dónde salió?"],
         r: 0,
         dato: "La vida nos trae sorpresas"
@@ -128,7 +128,7 @@ window.CATEGORIAS = [
         p: "¿Qué cosa me molesta más?",
         o: ["Que me dejen visto", "Que me mientan", "Que no cumplan su palabra", "Cambio de planes a último minuto"],
         r: 1,
-        dato: "Tiene la lengua pegada al paladar con una membrana, así que no la puede asomar."
+        dato: "Como dice el refrán: Las mentiras tienen patas cortas"
       }, 
       {
         p: "¿Qué superpoder le gustaría tener a Henry?",
